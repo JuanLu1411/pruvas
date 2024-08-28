@@ -14,8 +14,8 @@
 <a href="mailto:lnavio@mapfre.com,mariats@mapfre.com?cc=canogf@mapfre.com&subject=Feedback METODOLOGÍA GESTIÓN"><img style="width:65px" src="./img/feedback.png"></a>
 
 <p>
-  <a href="./pdf/index.pdf" download>
-    <button style="padding: 10px 15px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
+  <a href="../pdf/index.pdf" download>
+    <button style="padding: 10px 15px; background-color: red; color: white; border: none; border-radius: 5px; cursor: pointer;">
       Descargar PDF
     </button>
   </a>
