@@ -17,7 +17,7 @@
 <a href="../../"><img style="width:60px" src="../../img/LogoMet.png"></a>
 
 <p>
-  <a href="../pdf/proyecto/proyecto_es.pdf" download>
+  <a href="../../pdf/proyecto/proyecto_es.pdf" download>
     <button style="padding: 10px 15px; background-color: red; color: white; border: none; border-radius: 5px; cursor: pointer;">
       Descargar PDF
     </button>
