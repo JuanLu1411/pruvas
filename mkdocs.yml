@@ -1,6 +1,7 @@
 # Project information
 site_name: 'MAPFRE - Metodologia'
 site_description: 'Site de Metodologia MAPFRE'
+site_dir: 'site_arqint_glb_es'
 
 plugins:
   - techdocs-core
